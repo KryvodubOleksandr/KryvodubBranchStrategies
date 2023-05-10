@@ -1,2 +1,2 @@
 
-trunk - commit1
+trunk - commit1 - commit2
